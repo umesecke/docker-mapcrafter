@@ -1,0 +1,1 @@
+# Mapcrafter Docker image
